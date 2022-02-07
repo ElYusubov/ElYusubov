@@ -1,7 +1,9 @@
-### Hi there 👋
-
-Hi all, I am Elkhan. I am a life long learner with a passion to build simple solutions. 
+### Hi friends <img src="img/wave.gif" width="30px"> 
+<br>
+I am Elkhan - a life long learner with a passion to build simple solutions. 
 I am interested in Cloud automation solutions that empower the community.
+
+---
 
 🏆 I've 18+ years of experience in software development and system design.
 
