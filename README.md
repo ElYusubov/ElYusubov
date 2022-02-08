@@ -23,6 +23,7 @@ I am interested in Cloud automation solutions that empower the community.
 <p align="left">
 <a href="https://twitter.com/ElYusubov" target="blank"><img align="center" src="img/twitter.svg" alt="ElYusubov" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/elkhanyusubov" target="blank"><img align="center" src="img/linkedin.svg" alt="elkhanyusubov" height="30" width="40" /></a>
+<a href="https://sessionize.com/elkhan-yusubov" target="blank"><img align="center" src="img/sessionize-favicon.png" alt="elkhanyusubov" height="30" width="40" /></a>
 </p>
 
 ---
