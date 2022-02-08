@@ -18,31 +18,27 @@ I am interested in Cloud automation solutions that empower the community.
 📫 Email me: elkhan.yusubov@gmail.com 
 
 
-<!-- //////// Contact Details /////////////-->
+<!-- Contact Details -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ElYusubov" target="blank"><img align="center" src="img/twitter.svg" alt="ElYusubov" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/elkhanyusubov" target="blank"><img align="center" src="img/linkedin.svg" alt="elkhanyusubov" height="30" width="40" /></a>
 </p>
 
-</br>
-
-<h3 align="left">Trophy:</h3>
-<p align="center"> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=elyusubov&theme=algolia)]()
-</p>
-
+---
 
 ### Stats
 
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=elyusubov&theme=algolia&show_icons=true&locale=en" alt="elyusubov" /></p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elyusubov&theme=algolia&" alt="elyusubov" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elyusubov&theme=algolia&show_icons=true&locale=en&layout=compact" alt="elyusubov" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elyusubov&theme=algolia&show_icons=true&locale=en&layout=compact" alt="elyusubov" /></p>
 
+---
 
-![](https://hit.yhype.me/github/profile?user_id=16514562)
+<h3 align="left">Trophy:</h3>
+<p align="left"> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=elyusubov&theme=algolia)]()
+</p>
