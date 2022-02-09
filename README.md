@@ -1,7 +1,7 @@
 ### Hi friends <img src="img/wave.gif" width="30px"> 
 <br>
 I am Elkhan - a life long learner with a passion to build simple solutions. 
-I am interested in Cloud automation solutions that empower the community.
+I am interested in Cloud architecture and automation solutions that empower the community.
 
 ---
 
