@@ -38,6 +38,13 @@ I am interested in Cloud architecture and automation solutions that empower the 
 
 ---
 
+### [Awesome Azure Bicep Contributors](https://github.com/ElYusubov/AWESOME-Azure-Bicep)
+<a href="https://github.com/ElYusubov/AWESOME-Azure-Bicep/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ElYusubov/AWESOME-Azure-Bicep" />
+</a>
+
+---
+
 <h3 align="left">Trophy:</h3>
 <p align="left"> 
 
