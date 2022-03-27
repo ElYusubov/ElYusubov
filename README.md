@@ -11,7 +11,7 @@ I am interested in Cloud architecture and automation solutions that empower the 
 
 📝 You can find me on LinkedIn https://www.linkedin.com/in/elkhanyusubov
 
-💬 Ask me things like: Azure, Architecture, Azure Policy, Cloud Security, DevOps, and more........
+💬 Ask me things like Azure Architecture, Policy, Infrastructure as Code, DevSecOps and Cybersecurity.
 
 🤔 Check my Twitter: https://twitter.com/ElYusubov
 
