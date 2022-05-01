@@ -50,3 +50,10 @@ I am interested in Cloud architecture and automation solutions that empower the 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=elyusubov&theme=algolia)]()
 </p>
+
+---
+## 🐦 Latest Tweets
+
+[<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/elyusubov?ref_src=twsrc%5Etfw")
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=elyusubov&layout=wide)](https://github.com/gazf/github-readme-twitter)
