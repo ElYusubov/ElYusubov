@@ -1,21 +1,21 @@
 ### Hi friends <img src="img/wave.gif" width="30px"> 
 <br>
-I am Elkhan - a life long learner with a passion to build simple solutions. 
-I am interested in Cloud architecture and automation solutions that empower the community.
+I am Elkhan - a life long learner with a passion to build simple solutions.<br> 
+I am interested in cloud architecture, security and automation solutions that empower the community.
 
 ---
 
-🏆 I've 18+ years of experience in software development and system design.
+🏆 Have 18+ years of experience in software development and system design.
 
-📝 I am blogging at #CloudMarathoner https://thecloudmarathoner.com
+📝 Blogging at #CloudMarathoner https://thecloudmarathoner.com
 
-📝 You can find me on LinkedIn https://www.linkedin.com/in/elkhanyusubov
+📝 Connect with me at LinkedIn https://www.linkedin.com/in/elkhanyusubov
 
 💬 Ask me things like Azure Architecture, Policy, Infrastructure as Code, DevSecOps and Cybersecurity.
 
-🤔 Check my Twitter: https://twitter.com/ElYusubov
+🤔 Connect with me on Twitter: https://twitter.com/ElYusubov
 
-📫 Email me: elkhan.yusubov@gmail.com 
+📫 Email: elkhan.yusubov@gmail.com 
 
 
 <!-- Contact Details -->
