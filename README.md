@@ -5,15 +5,15 @@ I am interested in cloud architecture, security and automation solutions that em
 
 ---
 
-🏆 Have 18+ years of experience in software development and system design.
+🏆 18+ years of experience in software development and system design.
 
 📝 Blogging at #CloudMarathoner https://thecloudmarathoner.com
 
-📝 Connect with me at LinkedIn https://www.linkedin.com/in/elkhanyusubov
+📝 Connect at LinkedIn https://www.linkedin.com/in/elkhanyusubov
 
-💬 Ask me things like Azure Architecture, Policy, Infrastructure as Code, DevSecOps and Cybersecurity.
+💬 Ask me questions on Azure Architecture, Policy, Infrastructure as Code, DevSecOps and Cybersecurity.
 
-🤔 Connect with me on Twitter: https://twitter.com/ElYusubov
+🤔 Connect on Twitter: https://twitter.com/ElYusubov
 
 📫 Email: elkhan.yusubov@gmail.com 
 
