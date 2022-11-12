@@ -38,6 +38,13 @@ I am interested in cloud architecture, security and automation solutions that em
 
 ---
 
+<p>
+    <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elyusubov&theme=github_dark" />
+</p>
+
+---
+
 ### [Awesome Azure Bicep Contributors](https://github.com/ElYusubov/AWESOME-Azure-Bicep)
 <a href="https://github.com/ElYusubov/AWESOME-Azure-Bicep/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ElYusubov/AWESOME-Azure-Bicep" />
