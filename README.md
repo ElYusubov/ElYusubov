@@ -1,6 +1,6 @@
 ### Hi friends <img src="img/wave.gif" width="30px"> 
 <br>
-I am Elkhan - a lifelong learner with passion to build simple solutions.<br> 
+Welcome to my profile, I am Elkhan - a lifelong learner with passion to build simple solutions.<br> 
 I am interested in cloud architecture, security and automation solutions that empower the community.
 
 ---
