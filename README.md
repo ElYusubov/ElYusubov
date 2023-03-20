@@ -1,11 +1,11 @@
 ### Hi friends <img src="img/wave.gif" width="30px"> 
 <br>
-Welcome to my profile, I am Elkhan - a lifelong learner with passion to build simple solutions.<br> 
+Welcome to my profile, I am Elhan - a lifelong learner with passion to build simple solutions.<br> 
 I am interested in cloud architecture, security and automation solutions that empower the community.
 
 ---
 
-🏆 20+ years of experience in software development and system design.
+🏆 22+ years of experience in software development and system design.
 
 📝 Blogging at #CloudMarathoner https://thecloudmarathoner.com
 
