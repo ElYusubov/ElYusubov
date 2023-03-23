@@ -9,13 +9,11 @@ I am interested in cloud architecture, security and automation solutions that em
 
 📝 Blogging at #CloudMarathoner https://thecloudmarathoner.com
 
-📝 Connect at LinkedIn https://www.linkedin.com/in/elkhanyusubov
+📝 Connect with me on LinkedIn https://www.linkedin.com/in/elkhanyusubov
 
 💬 Ask me questions on Azure Architecture, Policy, Infrastructure as Code, DevSecOps and Cybersecurity.
 
-🤔 Connect on Twitter: https://twitter.com/ElYusubov
-
-📫 Email: elkhan.yusubov@gmail.com 
+🤔 Connect with me on Twitter: https://twitter.com/ElYusubov
 
 
 <!-- Contact Details -->
