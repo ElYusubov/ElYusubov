@@ -13,7 +13,7 @@ I am interested in cloud architecture, security and automation solutions that em
 
 💬 Ask me questions on Azure Architecture, Policy, Infrastructure as Code, DevSecOps and Cybersecurity.
 
-🤔 Connect with me on Twitter: https://twitter.com/ElYusubov
+🤔 Connect with me on TwitterX: https://twitter.com/ElYusubov
 
 
 <!-- Contact Details -->
