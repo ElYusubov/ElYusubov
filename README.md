@@ -1,11 +1,11 @@
 ### Hi friends <img src="img/wave.gif" width="30px"> 
 <br>
-Welcome to my profile, I am a lifelong learner with passion to build simple solutions.<br> 
-I am interested in cloud architecture, security and automation solutions that empower the community.
+Welcome to my profile, I am a lifelong learner passionate about building simple solutions.<br> 
+I am interested in cloud architecture, security, and automation solutions that empower the community.
 
 ---
 
-🏆 22+ years of experience in software development and system design.
+🏆 24+ years of experience in software development and system design.
 
 📝 Blogging at #CloudMarathoner https://thecloudmarathoner.com
 
