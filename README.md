@@ -60,5 +60,3 @@ I am interested in cloud architecture, security, and automation solutions (aka, 
 ## 🐦 Latest Tweets
 
 [<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/elyusubov?ref_src=twsrc%5Etfw")
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=elyusubov&layout=wide)](https://github.com/gazf/github-readme-twitter)
