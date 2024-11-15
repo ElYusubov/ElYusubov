@@ -1,7 +1,7 @@
 ### Hi friends <img src="img/wave.gif" width="30px"> 
 <br>
 Welcome to my profile, I am a lifelong learner passionate about building simple solutions.<br> 
-I am interested in cloud architecture, security, and automation solutions that empower the community.
+I am interested in cloud architecture, security, and automation solutions (aka, DevSecOps) that empower the community.
 
 ---
 
