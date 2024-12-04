@@ -5,7 +5,7 @@ I am interested in cloud architecture, security, and automation solutions (aka, 
 
 ---
 
-🏆 24+ years of experience in software development and system design.
+🏆 25+ years of experience in software development and system design.
 
 📝 Blogging at #CloudMarathoner https://thecloudmarathoner.com
 
