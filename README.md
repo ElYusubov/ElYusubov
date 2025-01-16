@@ -7,11 +7,13 @@ My interests are in cloud architecture, security, and automation solutions (aka,
 
 🏆 25+ years of experience in software development and system design.
 
+📺 Learn Azure Bicep 💪 with LinkedIn courses https://www.linkedin.com/learning/instructors/elkhan-yusubov
+
 📝 Blogging at #CloudMarathoner https://thecloudmarathoner.com
 
 📝 Connect with me on LinkedIn https://www.linkedin.com/in/elkhanyusubov
 
-💬 Ask me questions on Azure Architecture, Policy, Infrastructure as Code, DevSecOps and Cybersecurity.
+💬 Ask me about Azure Architecture, Policy, Infrastructure as Code, DevSecOps, and Cybersecurity.
 
 🤔 Connect with me on TwitterX: https://twitter.com/ElYusubov
 
