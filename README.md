@@ -27,6 +27,7 @@ My interests are in cloud architecture, security, and automation solutions (aka,
 </p>
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=elyusubov&label=Profile%20views&color=0e75b6&style=flat)
 
 ### Stats
 
