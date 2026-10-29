@@ -52,14 +52,3 @@ My interests are in cloud architecture, security, and automation solutions (aka,
 </a>
 
 ---
-
-<h3 align="left">Trophy:</h3>
-<p align="left"> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=elyusubov&theme=algolia)]()
-</p>
-
----
-## 🐦 Latest Tweets
-
-[<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/elyusubov?ref_src=twsrc%5Etfw")
